@@ -1530,53 +1530,41 @@
          "tilewidth":32
         }, 
         {
+         "columns":13,
          "firstgid":13,
-         "source":"tilesets\/loaded\/WA_User_Interface.tsx"
+         "image":"tilesets\/WA_User_Interface.png",
+         "imageheight":672,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_User_Interface",
+         "spacing":0,
+         "tilecount":273,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":76,
          "firstgid":286,
-         "source":"tilesets\/loaded\/Room_Builder_32x32.tsx"
+         "image":"..\/..\/Modern_Interiors_v41.4\/Modern_Interiors_v41.4\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "imageheight":3488,
+         "imagewidth":2432,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":8284,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":8570,
-         "source":"tilesets\/loaded\/Interiors_32x32.tsx"
-        }, 
-        {
-         "columns":6,
-         "firstgid":25594,
-         "image":"tilesets\/WA_Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
+         "image":"..\/..\/Modern_Interiors_v41.4\/Modern_Interiors_v41.4\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "imageheight":34048,
+         "imagewidth":512,
          "margin":0,
-         "name":"WA_Special_Zones",
+         "name":"Interiors_32x32",
          "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":25606,
-         "image":"tilesets\/WA_Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Special_Zones",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":25618,
-         "image":"tilesets\/WA_Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Special_Zones",
-         "spacing":0,
-         "tilecount":12,
+         "tilecount":17024,
          "tileheight":32,
          "tilewidth":32
         }],
